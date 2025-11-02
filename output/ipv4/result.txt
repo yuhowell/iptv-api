@@ -1,25 +1,19 @@
 🕘️更新时间,#genre#
-2025-11-02 00:14:18,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-02 12:15:04,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-9,http://sh.lnott.top:880/dx09.m3u8
-CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV-13,http://sh.lnott.top:880/dx13.m3u8
-CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762124400-1-029d8e9d1229983dd9aff09c2af0bdc4-701846d2d0cd5185b29b7954948a7371&yid=029d8e9d1229983dd9aff09c2af0bdc4
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,https://httop.top/hrtn-cetv1
 CETV-1,http://116.179.149.157:6000/rtp/226.0.2.68:8456
-CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
 CETV-2,http://116.179.149.157:6000/rtp/226.0.2.69:8464
 CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://sh.lnott.top:880/dx35.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-云南卫视,http://sh.lnott.top:880/dx49.m3u8
